@@ -1,4 +1,4 @@
-package primerosPasos;
+package ejercicio;
 
 import java.util.Arrays;
 import java.util.Scanner;
@@ -67,6 +67,7 @@ public class Anagramas {
 		}
 
 	}
+
 
 
 
