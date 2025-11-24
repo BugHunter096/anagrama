@@ -1,2 +1,2 @@
 # anagrama
-Programa que comprueba si un 2 textos introducidos son anagramas.
+Programa que comprueba si dos textos introducidos son anagramas.
